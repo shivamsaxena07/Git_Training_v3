@@ -2,4 +2,4 @@ Hello this is SSH Base connection.
 
 This is text file for sample download.
 
-And this is another commit from ocal machine.
+And this is another commit from local machine.
